@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../demo-common/demo-common.iml" filepath="$PROJECT_DIR$/../demo-common/demo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo-manager/demo-manager.iml" filepath="$PROJECT_DIR$/../demo-manager/demo-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo-manager/demo-manager-dao/demo-manager-dao.iml" filepath="$PROJECT_DIR$/../demo-manager/demo-manager-dao/demo-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo-manager/demo-manager-interface/demo-manager-interface.iml" filepath="$PROJECT_DIR$/../demo-manager/demo-manager-interface/demo-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo-manager/demo-manager-service/demo-manager-service.iml" filepath="$PROJECT_DIR$/../demo-manager/demo-manager-service/demo-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo-manager/demo-manager-web/demo-manager-web.iml" filepath="$PROJECT_DIR$/../demo-manager/demo-manager-web/demo-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-parent.iml" filepath="$PROJECT_DIR$/demo-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo-manager/demo-pojo/demo-pojo.iml" filepath="$PROJECT_DIR$/../demo-manager/demo-pojo/demo-pojo.iml" />
+    </modules>
+  </component>
+</project>
